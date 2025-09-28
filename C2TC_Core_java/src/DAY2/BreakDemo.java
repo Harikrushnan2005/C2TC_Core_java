@@ -1,5 +1,5 @@
 //Program to demonstrate  break statement
-package com.tnsif.daytwo;
+package DAY2;
 
 public class BreakDemo {
 	public static void main(String[] args) {

@@ -1,5 +1,5 @@
 //Program to demonstrate Switch case
-package com.tnsif.daytwo;
+package DAY2;
 
 
 public class SwitchDemo 
