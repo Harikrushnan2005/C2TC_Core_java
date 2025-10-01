@@ -1,1 +1,1 @@
-package DAY5;
+package com.tnsif.DAY5;
