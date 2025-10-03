@@ -1,0 +1,1 @@
+package com.tnsif.DAY6.staticvariable;
